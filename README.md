@@ -196,7 +196,7 @@ alt="GitHub streak"
 
 <h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=00000000&color=888888&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20GitHub%20Activity"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmika2906&bg_color=00000000&color=888888&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20GitHub%20Activity"
 width="95%"
 alt="GitHub contribution activity"/>
 </p>
@@ -206,10 +206,10 @@ alt="GitHub contribution activity"/>
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"/>
+srcset="https://raw.githubusercontent.com/Rashmika2906/Rashmika2906/output/github-snake-dark.svg"/>
 <source media="(prefers-color-scheme-light)"
-srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"/>
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
+srcset="https://raw.githubusercontent.com/Rashmika2906/Rashmika2906/output/github-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Rashmika2906/Rashmika2906/output/github-snake.svg"
 alt="GitHub contribution Train"/>
 </picture>
 </p>
