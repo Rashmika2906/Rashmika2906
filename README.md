@@ -36,6 +36,7 @@ alt="Profile views">
 <table align="center">
 <tr>
 <td width="65%" valign="middle">
+
 ### Hi, I'm Rashmika!!
 
 🎓I'm a **3rd-year Computer Science Engineering student** passionate about software development, AI, and building practical technology.
