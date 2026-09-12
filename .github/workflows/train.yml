@@ -1,0 +1,26 @@
+name: Generate Contributions
+on:
+ schedule:
+   - cron: "0 0 * * *"
+ workflow_dispatch:
+permissions:
+ contents: write
+jobs:
+ generate:
+  runs-on: ubuntu-latest
+
+  steps:
+      - name: Generate Contribution Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: $ {{ github.repository_owner }}
+          outputs: |  
+            dist/github-snake.svg?color_snake=EF93C4&color_dots=#F8BBD0,#F1A7C8,#EF93C4,#E779B0,#FF69B4
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=FF69B4
+      - name: Publish Contribution Animation
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env: 
+          GITHUB_TOEN: $ {{ secrets.GITHUB_TOKEN}}
