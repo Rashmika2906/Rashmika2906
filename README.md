@@ -183,13 +183,13 @@ alt="View all projects"/>
 
 <h2 align="center">📊 Github Analytics</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&rank_icon=github"
+<img src="https://github-readme-stats.vercel.app/api?username=Rashmika2906&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&rank_icon=github"
 width="49%"
-alt="GitHub stars"
+alt="GitHub stats"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika2906&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888"
 width="70%"
-alt="GitHub streak"
+alt="Top languages"
 />
 </p>
 <br>
@@ -202,7 +202,7 @@ alt="GitHub contribution activity"/>
 </p>
 <br>
 
-<h2 align="center">🚂 Contribution Train</h2>
+<h2 align="center">🚂 Contribution in Motion</h2>
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)"
