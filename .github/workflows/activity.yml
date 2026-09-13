@@ -3,25 +3,30 @@ on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
-permissions:
-  contents: write
+
 jobs:
-  activity:
+  build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
-       - name: Checkout repository
-         uses: actions/checkout@v6
-       - name: Generate activity graph
-         uses: maurodesouza/github-readme-activity-graph-action@v1
-         with:
-            username: Rashmika2906
-            options: theme=github-compact&hide_border=true&area=true&line=EF93C4&point=FF69B4&color=888888
-            output_path: profile/activity-graph.svg
-            token: ${{ secrets.GITHUB_TOKEN }}
-       - name: Commit activity graph
-         run: |
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: Rashmika2906
+          options: theme=github-compact&hide_border=true&area=true&line=EF93C4&point=FF69B4&color=888888
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit activity graph
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/activity-graph.svg
           git commit -m "Update contribution activity" || exit 0
-          git push     
+          git push
