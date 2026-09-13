@@ -197,7 +197,7 @@ alt="Top languages"
 
 <h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rashmika2906&bg_color=00000000&color=888888&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=My%20GitHub%20Activity"
+<img src="./profile/activity-graph.svg"
 width="95%"
 alt="GitHub contribution activity"/>
 </p>
