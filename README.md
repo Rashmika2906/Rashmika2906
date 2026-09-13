@@ -3,7 +3,7 @@
    <img alt="Logo for HEY, I'M RASHMIKA✨" src="art/header-light.png">
 </picture>
 <h1 align="center">
- Hey there, Myself Rashmika.S😁
+ Welcome to My GitHub😁
 </h1>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=750&lines=Actively+Building+%F0%9F%9A%80;CSE+Student+%7C+AI+%26+GenAI+Enthusiast+%F0%9F%A4%96;Building+Projects+That+Solve+Problems+%F0%9F%92%A1;Learning+Something+New+Every+Day+%F0%9F%8C%B1;Turning+Ideas+Into+Working+Projects+%E2%9C%A8"
@@ -184,11 +184,11 @@ alt="View all projects"/>
 
 <h2 align="center">📊 Github Analytics</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rashmika2906&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=FF69B4&text_color=888888&rank_icon=github"
+<img src="./profile/stats.svg"
 width="49%"
 alt="GitHub stats"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmika2906&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=888888"
+<img src="./profile/top-langs.svg"
 width="70%"
 alt="Top languages"
 />
